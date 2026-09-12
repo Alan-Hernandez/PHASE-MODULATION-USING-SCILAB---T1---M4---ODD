@@ -1,5 +1,5 @@
 # PHASE-MODULATION-USING-SCILAB---T1---M4---ODD
-# Experiment 8: Phase Modulation using Scilab
+
 
 ## Aim
 To implement and analyze Phase Modulation (PM) using Scilab.
